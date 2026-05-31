@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a Full Stack Engineer based in Minneapolis, MN with 5+ years of experience building production-ready web applications across fintech, retail, and healthcare. My sweet spot is React + TypeScript on the frontend, paired with Node.js on the backend — though I've worked up and down the stack.
+I'm a Full Stack Engineer with 5+ years of experience building production-ready web applications across fintech, retail, and healthcare. My sweet spot is React + TypeScript on the frontend, paired with Node.js on the backend — though I've worked up and down the stack.
 
 I care a lot about code that's readable, components that are reusable, and UIs that actually feel good to use. Right now I'm a Senior Full Stack Developer at **7-Eleven**, building internal tools used by store operators across thousands of locations.
 
