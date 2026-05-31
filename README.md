@@ -64,15 +64,15 @@ I'm a **Full Stack Developer** with 5+ years of experience crafting modern, scal
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=umarani17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Uma Rani's GitHub Stats" width="48%" />
-
-<img src="https://streak-stats.demolab.com/?user=umarani17&theme=tokyonight&hide_border=true" alt="Uma Rani's GitHub Streak" width="48%" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=umarani17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+&nbsp;&nbsp;
+<img height="180em" src="https://streak-stats.demolab.com/?user=umarani17&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarani17&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" width="40%" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarani17&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -82,9 +82,7 @@ I'm a **Full Stack Developer** with 5+ years of experience crafting modern, scal
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=umarani17&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=umarani17&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
 ---
