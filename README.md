@@ -1,102 +1,79 @@
 <div align="center">
 
-<!-- SECTION G: VISITOR COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=umarani17&label=Profile%20Views&color=blueviolet&style=flat" alt="umarani17 profile views" />
+# Hi, I'm Uma Rani Chittugooru 👋
 
-<!-- SECTION A: ANIMATED HEADER -->
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="wave" />
+**Full Stack Engineer &nbsp;·&nbsp; React & TypeScript &nbsp;·&nbsp; 5+ Years**
 
-<h1>Hi, I'm Uma Rani Chittugooru 👩‍💻</h1>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7B2FBE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+5%2B+Years;React+%7C+Node.js+%7C+Angular+Expert;Building+Scalable+Web+Applications;Clean+Code+%7C+Great+UX+%7C+Real+Impact)](https://git.io/typing-svg)
+[![Portfolio](https://img.shields.io/badge/Portfolio-umarani17.github.io-334155?style=flat-square&logo=globe&logoColor=white)](https://umarani17.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-umaranich-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/umaranich)
+[![Email](https://img.shields.io/badge/Email-chittuumarani@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chittuumarani@gmail.com)
 
 </div>
 
 ---
 
-<!-- SECTION B: ABOUT ME -->
-## 🙋‍♀️ About Me
+## About Me
 
-I'm a **Full Stack Developer** with 5+ years of experience crafting modern, scalable, and user-friendly web applications. I love bridging the gap between design and functionality, turning ideas into polished products.
+I'm a Full Stack Engineer based in Minneapolis, MN with 5+ years of experience building production-ready web applications across fintech, retail, and healthcare. My sweet spot is React + TypeScript on the frontend, paired with Node.js on the backend — though I've worked up and down the stack.
 
-- 🚀 Passionate about building end-to-end solutions — from pixel-perfect UIs to robust APIs
-- 🧩 I think in components, but dream in systems
-- 🌱 Always learning — currently exploring cloud-native architectures and performance optimization
-- ☕ Fuelled by coffee, curiosity, and clean code
+I care a lot about code that's readable, components that are reusable, and UIs that actually feel good to use. Right now I'm a Senior Full Stack Developer at **7-Eleven**, building internal tools used by store operators across thousands of locations.
 
----
-
-<!-- SECTION C: TECH STACK -->
-## 🛠️ Tech Stack
-
-**Frontend:**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Backend:**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Tools & Platforms:**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+A few things I enjoy working on:
+- Architecting scalable frontend systems with clean component boundaries
+- Integrating auth flows (MSAL, OAuth2, SSO, RBAC) that just work
+- Squeezing out performance — lazy loading, memoization, code splitting
+- Using AI tools (Claude Code, Copilot, multi-LLM APIs) to ship faster without cutting corners
 
 ---
 
-<!-- SECTION D: SOCIAL MEDIA LINKS -->
-## 🌐 Connect with Me
+## Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Uma%20Rani%20Chittugooru-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umaranich)
+**Frontend**
+`React.js` `TypeScript` `JavaScript (ES6+)` `Next.js` `Redux` `Redux Saga` `React Query` `HTML5` `CSS3` `SASS` `Styled Components` `Material-UI` `Bootstrap`
+
+**Backend**
+`Node.js` `Express.js` `Java` `Spring Boot` `GraphQL` `RESTful APIs` `Microservices`
+
+**Cloud & DevOps**
+`AWS (EC2, S3, Lambda, CloudFront)` `Azure / Azure AD` `Docker` `Jenkins` `GitHub Actions` `Terraform` `OpenShift`
+
+**Auth & Security**
+`MSAL` `OAuth2` `SSO` `RBAC` `JWT`
+
+**Databases**
+`PostgreSQL` `MongoDB` `MySQL` `SQL Server` `Redis`
+
+**AI-Assisted Development**
+`Claude Code` `GitHub Copilot` `OpenAI API` `Anthropic API` `Google Gemini API` `MCP`
 
 ---
 
-<!-- SECTION E: GITHUB STATS -->
-## 📊 GitHub Stats
+## Work Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| Senior Full Stack Developer | 7-Eleven | Jun 2025 – Present |
+| Full Stack Developer | DMS IT Services, Inc. | Feb 2025 – May 2025 |
+| Senior UI Developer | USAA (via DMS IT Services) | Nov 2024 – Jan 2025 |
+| UI / React Developer | DMS IT Services, Inc. | Jun 2023 – Oct 2024 |
+| Frontend Developer | AuramedPro Inc. | Sep 2022 – Mar 2023 |
+| Web Developer | Eight Audio International | Dec 2020 – Aug 2021 |
+| Web Developer | Statsflip IT Solutions | Jul 2018 – Jun 2019 |
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://readme-stats-app-plum.vercel.app/api?username=umarani17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Uma Rani GitHub Stats" />
-
-<img src="https://readme-stats-app-plum.vercel.app/api/top-langs/?username=umarani17&layout=compact&theme=tokyonight&hide_border=true" alt="Uma Rani Top Languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=umarani17&theme=tokyonight&hide_border=true" alt="Uma Rani GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=umarani17&theme=tokyo-night&hide_border=true" alt="Uma Rani Contribution Graph" />
+![Uma Rani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umarani17&show_icons=true&theme=default&hide_border=true&title_color=334155&icon_color=64748b&text_color=1e293b)
 
 </div>
 
 ---
 
-<!-- SECTION H: FOOTER -->
-## 🤝 Let's Connect!
+## Let's Connect
 
-I'm always open to interesting conversations, collaborations, and new opportunities. Feel free to reach out!
+I'm open to full-time roles, contract work, or just a good conversation about frontend architecture, AI-assisted development, or anything in between.
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umaranich)
-
----
-
-<div align="center">
-
-*"First, solve the problem. Then, write the code."* — John Johnson
-
-⭐ If you find my work interesting, consider giving a star to my repos!
-
-</div>
+📧 [chittuumarani@gmail.com](mailto:chittuumarani@gmail.com) &nbsp;|&nbsp; 🌐 [umarani17.github.io](https://umarani17.github.io) &nbsp;|&nbsp; 💼 [linkedin.com/in/umaranich](https://linkedin.com/in/umaranich)
