@@ -84,15 +84,6 @@ I'm a **Full Stack Developer** with 5+ years of experience crafting modern, scal
 
 ---
 
-<!-- SECTION F: GITHUB TROPHIES -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=umarani17&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
 <!-- SECTION H: FOOTER -->
 ## 🤝 Let's Connect!
 
