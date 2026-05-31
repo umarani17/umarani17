@@ -64,9 +64,9 @@ I'm a **Full Stack Developer** with 5+ years of experience crafting modern, scal
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=umarani17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Uma Rani GitHub Stats" />
+<img src="https://readme-stats-app-plum.vercel.app/api?username=umarani17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Uma Rani GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarani17&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Uma Rani Top Languages" />
+<img src="https://readme-stats-app-plum.vercel.app/api/top-langs/?username=umarani17&layout=compact&theme=tokyonight&hide_border=true" alt="Uma Rani Top Languages" />
 
 </div>
 
