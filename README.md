@@ -119,9 +119,13 @@ Full Stack Software Engineer with **5+ years** building production-grade enterpr
 ## 🏢 Experience Highlights
 
 ✅ **7-Eleven** — Senior Full Stack Developer *(Jun 2025 – Present)*
+
 ✅ **DMS IT Services** — Full Stack Developer *(Feb 2025 – May 2025)*
+
 ✅ **USAA** — Senior UI Developer *(Nov 2024 – Jan 2025)*
+
 ✅ **DMS IT Services** — UI/React Developer *(Jun 2023 – Oct 2024)*
+
 ✅ **AuramedPro Inc.** — Frontend Developer *(Sep 2022 – Mar 2023)*
 
 ---
